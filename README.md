@@ -29,7 +29,7 @@ put you full command, that you used to crerate new cheer command: alias cheer="e
 ### Task 3 : Echo whoami to file (10%)
 
 ```bash
-Insert your full echo command here: echo " echo "Hello $(whoami)! This is task 2 completed"
+Insert your full echo command here: echo "Hello $(whoami)! This is task 2 completed"
 
 
 
@@ -41,7 +41,7 @@ Insert your full echo command here: echo " echo "Hello $(whoami)! This is task 2
 You full details.sh script here:
 #!/bin/bash
 echo "user" && whoami
-echo "current dir:"&& pwd
+echo "current dir:" && pwd
 echo "host:" && hostname
 ```
 
